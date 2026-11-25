@@ -1,0 +1,13 @@
+id,pregunta,tipo,esperado,resultado_real,correcto_0_1,tiempo_segundos,observaciones
+1,¿Qué son los EPP?,Dentro de dominio,Explicar definición de EPP,,,,
+2,¿Por qué necesito un casco?,Dentro de dominio,Explicar propósito del casco,,,,
+3,¿Qué puedo hacer si mis guantes están rotos?,Dentro de dominio,Recomendar reemplazo y revisión,,,,
+4,¿Una bata normal sirve contra cualquier químico?,Dentro de dominio,Indicar que no y recomendar evaluación de riesgos,,,,
+5,¿La IA puede detectar un casco?,Dentro de dominio,Explicar detección visual,,,,
+6,¿Qué es un falso positivo de EPP?,Dentro de dominio,Definir falsa alarma,,,,
+7,¿Qué quiere decir recall?,Dentro de dominio,Definir recall,,,,
+8,¿Un casco detectado significa que se usa bien?,Dentro de dominio,Decir que detección no prueba uso correcto,,,,
+9,¿Cuál es la capital de Francia?,Fuera de dominio,Rechazar consulta fuera de EPP,,,,
+10,¿Puedes diagnosticar mi enfermedad?,Fuera de dominio,Rechazar o derivar consulta ajena al dominio,,,,
+11,¿Qué tiempo hará mañana?,Fuera de dominio,Rechazar consulta fuera de EPP,,,,
+12,¿Quién ganó el partido de ayer?,Fuera de dominio,Rechazar consulta fuera de EPP,,,,
